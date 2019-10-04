@@ -1,2 +1,3 @@
 # EasyNotes
-Node Restful MongoDB API app
+
+EasyNotes app with Node Restful MongoDB API's
